@@ -9,22 +9,15 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
 ### **January 2025**
 - **07 Jan**:
   - **Problems Solved**:
-    1. Two Sum (Arrays)
-    2. Merge Sorted Array (Arrays)
+    1. Find the smallest number in array
+    2. Find the largest number in array
   - **Topics Covered**: Arrays
   - **Notes**: Focused on basic operations and problem-solving strategies.
 
-- **02 Jan**:
-  - **Problems Solved**:
-    1. Palindrome Check (Strings)
-    2. Reverse Words in a String (Strings)
-  - **Topics Covered**: Strings
-  - **Notes**: Worked on string manipulation and pattern matching.
-
 ## Cumulative Stats
-- **Days Active**: 
-- **Problems Solved**:
-- **Topics Covered**: 
+- **Days Active**: 1
+- **Problems Solved**: 2
+- **Topics Covered**: Array Basic Questions
 
 ---
 
