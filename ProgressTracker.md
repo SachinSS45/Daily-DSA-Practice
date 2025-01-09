@@ -16,11 +16,13 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
 - **08 Jan**: Not Solved
 - **09 Jan**:
   - **Problems Solved**:
-    1. Second Largest and Second Smallest Element in Array without Sorting
+    1. Second Largest and Second Smallest Element in Array without Sorting.
+    2. Check if array is sorted or not
+    3. Remove Duplicates in-place from sorted array and return the size of unique elements. 
   - **Topics Covered**: Arrays
 ## Cumulative Stats
 - **Days Active**: 2
-- **Problems Solved**: 3
+- **Problems Solved**: 5
 - **Topics Covered**: Array Basic Questions
 
 ---
