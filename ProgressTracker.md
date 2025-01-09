@@ -13,7 +13,11 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
     2. Find the largest number in array
   - **Topics Covered**: Arrays
   - **Notes**: Focused on basic operations and problem-solving strategies.
-
+- **08 Jan**: Not Solved
+- **09 Jan**:
+  - **Problems Solved**:
+    1. Second Largest and Second Smallest Element in Array without Sorting
+  - **Topics Covered**: Arrays
 ## Cumulative Stats
 - **Days Active**: 1
 - **Problems Solved**: 2
