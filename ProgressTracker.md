@@ -19,8 +19,8 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
     1. Second Largest and Second Smallest Element in Array without Sorting
   - **Topics Covered**: Arrays
 ## Cumulative Stats
-- **Days Active**: 1
-- **Problems Solved**: 2
+- **Days Active**: 2
+- **Problems Solved**: 3
 - **Topics Covered**: Array Basic Questions
 
 ---
