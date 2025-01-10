@@ -21,6 +21,11 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
     3. Remove Duplicates in-place from sorted array and return the size of unique elements.
     4. Left Rotate Array by one place. 
   - **Topics Covered**: Arrays
+- **10 Jan**:
+  - **Problems Solved**:
+    1. Left Rotate Array by D places.
+    2. Move all zeros to the end of the array.
+  - **Topics Covered**: Arrays
 ## Cumulative Stats
 - **Days Active**: 2
 - **Problems Solved**: 6
