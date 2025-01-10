@@ -23,7 +23,7 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
   - **Topics Covered**: Arrays
 ## Cumulative Stats
 - **Days Active**: 2
-- **Problems Solved**: 5
+- **Problems Solved**: 6
 - **Topics Covered**: Array Basic Questions
 
 ---
