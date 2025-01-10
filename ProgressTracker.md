@@ -27,8 +27,8 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
     2. Move all zeros to the end of the array.
   - **Topics Covered**: Arrays
 ## Cumulative Stats
-- **Days Active**: 2
-- **Problems Solved**: 6
+- **Days Active**: 3
+- **Problems Solved**: 8
 - **Topics Covered**: Array Basic Questions
 
 ---
