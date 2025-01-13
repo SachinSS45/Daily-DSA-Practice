@@ -26,9 +26,14 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
     1. Left Rotate Array by D places.
     2. Move all zeros to the end of the array.
   - **Topics Covered**: Arrays
+- **13 Jan**:
+  - **Problems Solved**:
+    1. [Leetcode-1929](https://leetcode.com/problems/concatenation-of-array/description/) - **Concatenation Of Array**
+  - **Topics Covered**: Arrays
+    
 ## Cumulative Stats
-- **Days Active**: 3
-- **Problems Solved**: 8
+- **Days Active**: 4
+- **Problems Solved**: 9
 - **Topics Covered**: Array Basic Questions
 
 ---
