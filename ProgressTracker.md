@@ -34,7 +34,7 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
   - **Problems Solved**:
     1. [Leetcode-1929](https://leetcode.com/problems/concatenation-of-array/description/) - **Concatenation Of Array**
   - **Topics Covered**: Arrays
-  -- **14 Jan**:
+- **14 Jan**:
   - **Problems Solved**:
     1. [Leetcode-136](https://leetcode.com/problems/single-number/description/) - **Every element appears twice except for one. Find that single one.**
     2. [Leetcode-485](https://leetcode.com/problems/max-consecutive-ones/description/) - **Maximum Consecutive Ones**
