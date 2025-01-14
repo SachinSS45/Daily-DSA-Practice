@@ -37,8 +37,8 @@ Welcome to my **Daily Data Structures and Algorithms (DSA) Practice** repository
 ---
 
 ## Cumulative Stats
-- **Days Active**: 3 (Starting fresh!)
-- **Problems Solved**: 8
+- **Days Active**: 7 (Starting fresh!)
+- **Problems Solved**: 12
 - **Topics Covered**: Arrays
 
 ---
