@@ -42,7 +42,7 @@ This file tracks my daily progress in Data Structures and Algorithms (DSA). Each
 - **20 Jan**:
   - **Problems Solved**:
     1. [Count Digits](https://github.com/SachinSS45/Daily-DSA-Practice/blob/master/02_Maths/Program01.java) - **Count the number of digits present in number.**
-    2. [Reverse Number]([https://leetcode.com/problems/max-consecutive-ones/description/](https://github.com/SachinSS45/Daily-DSA-Practice/blob/master/02_Maths/Program02.java)) - **Find the reverse of number**
+    2. [Reverse Number](https://github.com/SachinSS45/Daily-DSA-Practice/blob/master/02_Maths/Program02.java) - **Find the reverse of number**
     3. [Palindrome Number](https://github.com/SachinSS45/Daily-DSA-Practice/blob/master/02_Maths/Program03.java) - **Check whether given number is palindrome or not**
     4. [Armstrong Number](https://github.com/SachinSS45/Daily-DSA-Practice/blob/master/02_Maths/Program04.java) - **Check whether given number is Armstrong or not**
   - **Topics Covered**: Maths
